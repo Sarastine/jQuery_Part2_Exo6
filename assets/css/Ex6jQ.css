@@ -1,0 +1,25 @@
+.color{
+  float: none;
+  width: 20px;
+  height: 20px;
+  margin : 5px;
+}
+.green{
+  background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+body {
+	background-color: #333;
+}
+h1, h2 {
+	color: #080;
+	text-align: center;
+}
+#text {
+	background-color: #FF0;
+}
